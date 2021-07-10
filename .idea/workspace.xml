@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7989d509-8d3a-4a5e-a9d1-0c03949433a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/.expo-shared/assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1v0QVXVHwri8d0zgBiBYpRGrR4O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7989d509-8d3a-4a5e-a9d1-0c03949433a1" name="Default Changelist" comment="" />
+      <created>1625696552044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625696552044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3576" y="21" width="1532" height="781" key="AVDManager" timestamp="1625725931209">
+      <screen x="3384" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3576" y="21" width="1532" height="781" key="AVDManager/0.0.1504.963/3384.0.1920.1040@0.0.1504.963" timestamp="1625725931209" />
+    <state x="3576" y="21" width="1532" height="781" key="AVDManager/0.0.1504.963/3384.0.1920.1040@3384.0.1920.1040" timestamp="1625721567286" />
+    <state x="599" y="224" key="FileChooserDialogImpl" timestamp="1625715970329">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="599" y="224" key="FileChooserDialogImpl/0.0.1504.963/3384.0.1920.1040@0.0.1504.963" timestamp="1625715970329" />
+    <state x="509" y="190" key="RollbackChangesDialog" timestamp="1625721711262">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="509" y="190" key="RollbackChangesDialog/0.0.1504.963/3384.0.1920.1040@0.0.1504.963" timestamp="1625721711262" />
+    <state x="299" y="44" key="SettingsEditor" timestamp="1625716011983">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="299" y="44" key="SettingsEditor/0.0.1504.963/3384.0.1920.1040@0.0.1504.963" timestamp="1625716011983" />
+    <state x="475" y="218" key="run.anything.popup" timestamp="1625715874777">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="475" y="218" key="run.anything.popup/0.0.1504.963/3384.0.1920.1040@0.0.1504.963" timestamp="1625715874777" />
+  </component>
+</project>
