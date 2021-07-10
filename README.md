@@ -18,3 +18,4 @@
 
 [How to run an Expo app on an Android emulator](https://www.brainstormcreative.co.uk/apps/how-to-run-an-expo-app-on-an-android-emulator/)
 
+- This map help the user to locate his current location  and also the search bar help user to search place .  
